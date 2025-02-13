@@ -2,9 +2,10 @@
 function App() {
   
   return (
-    <>
-
-    </>
+    <main>
+      <TodoInput />
+      <TodoList />
+    </main>
   )
 }
 
